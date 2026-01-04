@@ -1,0 +1,9 @@
+{
+  "name": "directory-peace",
+  "version": "1.0.0",
+  "description": "A calm terminal-based file saver and version-style tracker",
+  "bin": {
+    "dp": "./dp"
+  },
+  "license": "MIT"
+}
